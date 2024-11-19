@@ -172,5 +172,5 @@ dmypy.json
 .pytype/
 cython_debug/
 .python-version
-.file_versions/
-.ssh_tunnel
+!/.file_versions/
+!/.ssh_tunnel/
