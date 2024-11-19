@@ -1,0 +1,10 @@
+fastapi==0.115.5
+feast==0.41.3
+kafka_python==2.0.2
+mage_ai==0.9.74
+mlflow==2.18.0
+mlflow_skinny==2.18.0
+pandas==2.2.3
+pydantic==2.9.2
+Requests==2.32.3
+scikit_learn==1.5.2
